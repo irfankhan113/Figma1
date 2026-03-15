@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date: 14/11/25
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -33,8 +33,106 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-
+```
+<div class="container--0-">
+  <img
+    src=" " />
+  <div class="text-0-1-1">Exciting events awaits</div>
+  <svg
+    width="291"
+    height="54"
+    viewBox="0 0 291 54"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <rect width="291" height="54" fill="#F56C49" fill-opacity="0.63"></rect>
+  </svg>
+  <div class="text-0-1-3">LOGIN</div>
+  <div class="text-0-1-4">IGNITE</div>
+  <div class="text-0-1-5">SAVEETHA PRESENTS</div>
+</div>
+<div class="container--0-">
+  <img
+    src=" " />
+  <div class="text-0-1-2">CATEGORIES</div>
+  <div class="text-0-1-3">
+    day 1- karaoke<br />day2-rock the stage<br />day3-concert <br />day 4-sports
+    event
+  </div>
+</div>
+<div class="container--0-">
+  <img
+    src=" " />
+  <div class="text-0-1-2">LETS ALL JOIN TOGETHER AND HAVE FUN</div>
+  <svg
+    width="291"
+    height="54"
+    viewBox="0 0 291 54"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <rect width="291" height="54" fill="#4B1001" fill-opacity="0.63"></rect>
+  </svg>
+  <div class="text-0-1-4">LOGIN</div>
+  <div class="text-0-1-5">REGISTER NOW!!!!!</div>
+</div>
+```
+CSS:
+```
+.container--0- {
+  position: absolute;
+  left: 646px;
+  top: -25px;
+  width: 430px;
+  height: 932px;
+  background-color: #fcffed;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-2 {
+  width: 420px;
+  height: 120px;
+  color: #5d0101;
+  font-size: 48px;
+  font-family: Lugrasimo, "Regular";
+  font-weight: 400;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-3 {
+  width: 364px;
+  height: 518px;
+  color: #000000;
+  font-size: 64px;
+  font-family: Nanum Pen, "Regular";
+  font-weight: 400;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-4 {
+  width: 289px;
+  height: 52px;
+  color: #ffffff;
+  font-size: 40px;
+  font-family: Marko One, "Regular";
+  font-weight: 400;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-5 {
+  width: 386px;
+  height: 54px;
+  color: #451616;
+  font-size: 40px;
+  font-family: Marko One, "Regular";
+  font-weight: 400;
+  text-align: center;
+  vertical-align: top;
+}
+```
 ## OUTPUT:
+<img width="1919" height="920" alt="443051430-e6b054dd-5010-4a39-95c7-9e0849241d4b" src="https://github.com/user-attachments/assets/d6bc3c65-fffc-4293-8d4a-edcb3dec9352" />
+<img width="1919" height="909" alt="443051487-f291e0fa-8059-45cf-8dfc-c40380d10364" src="https://github.com/user-attachments/assets/777bc7f0-ea8e-493e-b659-4095cd765b66" />
+<img width="1919" height="1009" alt="443051544-a7606002-aa73-464f-ac74-2995a5c6b0b5" src="https://github.com/user-attachments/assets/300e007a-6478-4ca4-81dd-ab34885953d4" />
 
 
 ## RESULT:
